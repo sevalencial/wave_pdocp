@@ -1,0 +1,103 @@
+{
+  "number_of_samples": 100,
+  "status_counts": {
+    "PASS": 100,
+    "WARNING": 0,
+    "FAIL": 0
+  },
+  "total_runtime_seconds": 4.832072000019252,
+  "mean_fom_runtime_seconds": 0.023382052117958664,
+  "max_relative_residual": 4.608081734232575e-14,
+  "median_relative_residual": 3.006623537295282e-14,
+  "max_optimality_error": 1.0679503941576822e-11,
+  "max_optimality_relative_error": 4.278888702227234e-12,
+  "max_terminal_error": 0.02516480093251613,
+  "min_relative_terminal_error": 0.01065290483694695,
+  "max_relative_terminal_error": 0.011328597121077906,
+  "min_gramian_eigenvalue": 0.5367086513282658,
+  "max_gramian_eigenvalue": 1.848940685605612,
+  "max_gramian_condition_number": 3.4449615839614065,
+  "max_system_condition_number": 3.40024011160092,
+  "max_local_parameter_sensitivity": 2.0342639126978623,
+  "max_control_energy": 5.3983227650126615,
+  "min_cost_reduction": 0.9889314918074972,
+  "mesh_representative_count": 8,
+  "mesh_all_converged": true,
+  "flagged_samples": [],
+  "campaign_validated": true,
+  "split_counts": {
+    "train_indices": 75,
+    "validation_indices": 15,
+    "test_indices": 10
+  },
+  "config": {
+    "experiment": {
+      "name": "wave_speed_amplitude_sweep",
+      "seed": 42
+    },
+    "domain": {
+      "length": 1.0,
+      "final_time": 2.0
+    },
+    "discretization": {
+      "n_interior": 100
+    },
+    "optimal_control": {
+      "beta": 100.0
+    },
+    "parameter_space": {
+      "dimension": 1,
+      "min": 0.0,
+      "max": 0.3,
+      "n_samples": 100,
+      "sampling": "uniform_grid",
+      "parameterization": "wave_speed_sine_amplitude_v1"
+    },
+    "validation": {
+      "safe_epsilon": 1e-15,
+      "relative_residual_tolerance": 1e-09,
+      "optimality_tolerance": 1e-09,
+      "weighted_symmetry_tolerance": 1e-09,
+      "positivity_tolerance": 1e-10,
+      "cost_tolerance": 1e-10,
+      "spectral_tolerance": 1e-09,
+      "gramian_condition_warning": 10000000000.0,
+      "system_condition_warning": 100000000.0,
+      "near_zero_eigenvalue_warning": 1e-12,
+      "control_energy_warning": 1000000.0,
+      "relative_terminal_error_warning": 0.1,
+      "runtime_warning_seconds": 10.0,
+      "sensitivity_outlier_factor": 10.0
+    },
+    "mesh_refinement": {
+      "enabled": true,
+      "sizes": [
+        50,
+        100,
+        200
+      ],
+      "representative_samples": 8,
+      "decrease_factor_tolerance": 1.05,
+      "absolute_error_floor": 1e-08
+    },
+    "dataset": {
+      "format": "hdf5",
+      "version": "1.0",
+      "split_strategy": "random",
+      "fractions": [
+        0.75,
+        0.15,
+        0.1
+      ]
+    },
+    "outputs": {
+      "dataset": "data/datasets/wave_pdocp_fom.h5",
+      "snapshots": "outputs/parameter_sweep/validated_snapshots.h5",
+      "metrics": "outputs/metrics/fom_parameter_sweep.csv",
+      "refinement": "outputs/metrics/fom_mesh_refinement.csv",
+      "summary": "outputs/parameter_sweep/summary.json",
+      "figures": "outputs/parameter_sweep/figures"
+    }
+  },
+  "dataset_path": "/Users/sergio/Desktop/Tesis de Maestria/wave_pdocp/data/datasets/wave_pdocp_fom.h5"
+}

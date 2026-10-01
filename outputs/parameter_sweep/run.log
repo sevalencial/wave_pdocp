@@ -1,0 +1,230 @@
+[001/100] mu=0.000000 | PASS | r_rel=2.73e-14 | e_T=2.366e-02 | kappa=1.093e+00 | time=0.031s
+[002/100] mu=0.003030 | PASS | r_rel=2.61e-14 | e_T=2.366e-02 | kappa=1.095e+00 | time=0.024s
+[003/100] mu=0.006061 | PASS | r_rel=2.56e-14 | e_T=2.366e-02 | kappa=1.098e+00 | time=0.023s
+[004/100] mu=0.009091 | PASS | r_rel=2.84e-14 | e_T=2.367e-02 | kappa=1.104e+00 | time=0.023s
+[005/100] mu=0.012121 | PASS | r_rel=3.05e-14 | e_T=2.367e-02 | kappa=1.110e+00 | time=0.023s
+[006/100] mu=0.015152 | PASS | r_rel=2.91e-14 | e_T=2.367e-02 | kappa=1.117e+00 | time=0.024s
+[007/100] mu=0.018182 | PASS | r_rel=4.44e-14 | e_T=2.367e-02 | kappa=1.125e+00 | time=0.025s
+[008/100] mu=0.021212 | PASS | r_rel=2.14e-14 | e_T=2.367e-02 | kappa=1.134e+00 | time=0.023s
+[009/100] mu=0.024242 | PASS | r_rel=3.76e-14 | e_T=2.367e-02 | kappa=1.144e+00 | time=0.023s
+[010/100] mu=0.027273 | PASS | r_rel=2.64e-14 | e_T=2.368e-02 | kappa=1.154e+00 | time=0.023s
+[011/100] mu=0.030303 | PASS | r_rel=2.91e-14 | e_T=2.368e-02 | kappa=1.165e+00 | time=0.024s
+[012/100] mu=0.033333 | PASS | r_rel=3.17e-14 | e_T=2.368e-02 | kappa=1.176e+00 | time=0.024s
+[013/100] mu=0.036364 | PASS | r_rel=4.04e-14 | e_T=2.369e-02 | kappa=1.188e+00 | time=0.023s
+[014/100] mu=0.039394 | PASS | r_rel=2.28e-14 | e_T=2.369e-02 | kappa=1.200e+00 | time=0.023s
+[015/100] mu=0.042424 | PASS | r_rel=2.81e-14 | e_T=2.370e-02 | kappa=1.212e+00 | time=0.023s
+[016/100] mu=0.045455 | PASS | r_rel=2.52e-14 | e_T=2.370e-02 | kappa=1.225e+00 | time=0.024s
+[017/100] mu=0.048485 | PASS | r_rel=2.76e-14 | e_T=2.370e-02 | kappa=1.238e+00 | time=0.024s
+[018/100] mu=0.051515 | PASS | r_rel=2.74e-14 | e_T=2.371e-02 | kappa=1.251e+00 | time=0.024s
+[019/100] mu=0.054545 | PASS | r_rel=3.96e-14 | e_T=2.372e-02 | kappa=1.265e+00 | time=0.023s
+[020/100] mu=0.057576 | PASS | r_rel=2.42e-14 | e_T=2.372e-02 | kappa=1.278e+00 | time=0.024s
+[021/100] mu=0.060606 | PASS | r_rel=2.54e-14 | e_T=2.373e-02 | kappa=1.293e+00 | time=0.023s
+[022/100] mu=0.063636 | PASS | r_rel=2.84e-14 | e_T=2.373e-02 | kappa=1.307e+00 | time=0.023s
+[023/100] mu=0.066667 | PASS | r_rel=2.70e-14 | e_T=2.374e-02 | kappa=1.320e+00 | time=0.022s
+[024/100] mu=0.069697 | PASS | r_rel=2.24e-14 | e_T=2.375e-02 | kappa=1.335e+00 | time=0.022s
+[025/100] mu=0.072727 | PASS | r_rel=3.29e-14 | e_T=2.376e-02 | kappa=1.352e+00 | time=0.023s
+[026/100] mu=0.075758 | PASS | r_rel=3.05e-14 | e_T=2.376e-02 | kappa=1.367e+00 | time=0.023s
+[027/100] mu=0.078788 | PASS | r_rel=2.63e-14 | e_T=2.377e-02 | kappa=1.382e+00 | time=0.024s
+[028/100] mu=0.081818 | PASS | r_rel=2.60e-14 | e_T=2.378e-02 | kappa=1.397e+00 | time=0.023s
+[029/100] mu=0.084848 | PASS | r_rel=3.01e-14 | e_T=2.379e-02 | kappa=1.414e+00 | time=0.025s
+[030/100] mu=0.087879 | PASS | r_rel=2.96e-14 | e_T=2.380e-02 | kappa=1.430e+00 | time=0.025s
+[031/100] mu=0.090909 | PASS | r_rel=2.85e-14 | e_T=2.381e-02 | kappa=1.447e+00 | time=0.025s
+[032/100] mu=0.093939 | PASS | r_rel=3.18e-14 | e_T=2.382e-02 | kappa=1.464e+00 | time=0.025s
+[033/100] mu=0.096970 | PASS | r_rel=2.41e-14 | e_T=2.383e-02 | kappa=1.482e+00 | time=0.024s
+[034/100] mu=0.100000 | PASS | r_rel=2.77e-14 | e_T=2.384e-02 | kappa=1.499e+00 | time=0.025s
+[035/100] mu=0.103030 | PASS | r_rel=2.44e-14 | e_T=2.385e-02 | kappa=1.517e+00 | time=0.024s
+[036/100] mu=0.106061 | PASS | r_rel=3.80e-14 | e_T=2.386e-02 | kappa=1.535e+00 | time=0.024s
+[037/100] mu=0.109091 | PASS | r_rel=2.35e-14 | e_T=2.387e-02 | kappa=1.552e+00 | time=0.024s
+[038/100] mu=0.112121 | PASS | r_rel=2.53e-14 | e_T=2.388e-02 | kappa=1.571e+00 | time=0.024s
+[039/100] mu=0.115152 | PASS | r_rel=3.22e-14 | e_T=2.389e-02 | kappa=1.588e+00 | time=0.023s
+[040/100] mu=0.118182 | PASS | r_rel=3.31e-14 | e_T=2.390e-02 | kappa=1.607e+00 | time=0.023s
+[041/100] mu=0.121212 | PASS | r_rel=2.83e-14 | e_T=2.392e-02 | kappa=1.626e+00 | time=0.024s
+[042/100] mu=0.124242 | PASS | r_rel=2.44e-14 | e_T=2.393e-02 | kappa=1.644e+00 | time=0.023s
+[043/100] mu=0.127273 | PASS | r_rel=2.57e-14 | e_T=2.394e-02 | kappa=1.666e+00 | time=0.023s
+[044/100] mu=0.130303 | PASS | r_rel=2.55e-14 | e_T=2.396e-02 | kappa=1.685e+00 | time=0.022s
+[045/100] mu=0.133333 | PASS | r_rel=3.02e-14 | e_T=2.397e-02 | kappa=1.706e+00 | time=0.023s
+[046/100] mu=0.136364 | PASS | r_rel=2.53e-14 | e_T=2.398e-02 | kappa=1.728e+00 | time=0.023s
+[047/100] mu=0.139394 | PASS | r_rel=2.82e-14 | e_T=2.400e-02 | kappa=1.747e+00 | time=0.023s
+[048/100] mu=0.142424 | PASS | r_rel=2.79e-14 | e_T=2.401e-02 | kappa=1.769e+00 | time=0.023s
+[049/100] mu=0.145455 | PASS | r_rel=2.79e-14 | e_T=2.403e-02 | kappa=1.790e+00 | time=0.023s
+[050/100] mu=0.148485 | PASS | r_rel=2.20e-14 | e_T=2.404e-02 | kappa=1.809e+00 | time=0.023s
+[051/100] mu=0.151515 | PASS | r_rel=2.84e-14 | e_T=2.406e-02 | kappa=1.832e+00 | time=0.023s
+[052/100] mu=0.154545 | PASS | r_rel=2.40e-14 | e_T=2.407e-02 | kappa=1.855e+00 | time=0.023s
+[053/100] mu=0.157576 | PASS | r_rel=2.58e-14 | e_T=2.409e-02 | kappa=1.879e+00 | time=0.023s
+[054/100] mu=0.160606 | PASS | r_rel=2.81e-14 | e_T=2.410e-02 | kappa=1.902e+00 | time=0.023s
+[055/100] mu=0.163636 | PASS | r_rel=2.42e-14 | e_T=2.412e-02 | kappa=1.924e+00 | time=0.023s
+[056/100] mu=0.166667 | PASS | r_rel=2.66e-14 | e_T=2.414e-02 | kappa=1.948e+00 | time=0.023s
+[057/100] mu=0.169697 | PASS | r_rel=2.67e-14 | e_T=2.415e-02 | kappa=1.970e+00 | time=0.023s
+[058/100] mu=0.172727 | PASS | r_rel=2.97e-14 | e_T=2.417e-02 | kappa=1.994e+00 | time=0.023s
+[059/100] mu=0.175758 | PASS | r_rel=3.00e-14 | e_T=2.419e-02 | kappa=2.020e+00 | time=0.023s
+[060/100] mu=0.178788 | PASS | r_rel=2.80e-14 | e_T=2.421e-02 | kappa=2.045e+00 | time=0.023s
+[061/100] mu=0.181818 | PASS | r_rel=2.93e-14 | e_T=2.422e-02 | kappa=2.072e+00 | time=0.023s
+[062/100] mu=0.184848 | PASS | r_rel=3.18e-14 | e_T=2.424e-02 | kappa=2.097e+00 | time=0.023s
+[063/100] mu=0.187879 | PASS | r_rel=3.49e-14 | e_T=2.426e-02 | kappa=2.121e+00 | time=0.023s
+[064/100] mu=0.190909 | PASS | r_rel=3.11e-14 | e_T=2.428e-02 | kappa=2.148e+00 | time=0.040s
+[065/100] mu=0.193939 | PASS | r_rel=2.87e-14 | e_T=2.430e-02 | kappa=2.173e+00 | time=0.063s
+[066/100] mu=0.196970 | PASS | r_rel=3.33e-14 | e_T=2.432e-02 | kappa=2.202e+00 | time=0.033s
+[067/100] mu=0.200000 | PASS | r_rel=3.18e-14 | e_T=2.434e-02 | kappa=2.231e+00 | time=0.024s
+[068/100] mu=0.203030 | PASS | r_rel=3.18e-14 | e_T=2.436e-02 | kappa=2.258e+00 | time=0.022s
+[069/100] mu=0.206061 | PASS | r_rel=2.74e-14 | e_T=2.438e-02 | kappa=2.287e+00 | time=0.023s
+[070/100] mu=0.209091 | PASS | r_rel=3.36e-14 | e_T=2.440e-02 | kappa=2.314e+00 | time=0.023s
+[071/100] mu=0.212121 | PASS | r_rel=3.65e-14 | e_T=2.442e-02 | kappa=2.342e+00 | time=0.023s
+[072/100] mu=0.215152 | PASS | r_rel=3.13e-14 | e_T=2.444e-02 | kappa=2.374e+00 | time=0.022s
+[073/100] mu=0.218182 | PASS | r_rel=3.16e-14 | e_T=2.446e-02 | kappa=2.402e+00 | time=0.023s
+[074/100] mu=0.221212 | PASS | r_rel=3.97e-14 | e_T=2.448e-02 | kappa=2.434e+00 | time=0.023s
+[075/100] mu=0.224242 | PASS | r_rel=3.61e-14 | e_T=2.451e-02 | kappa=2.466e+00 | time=0.023s
+[076/100] mu=0.227273 | PASS | r_rel=3.17e-14 | e_T=2.453e-02 | kappa=2.494e+00 | time=0.023s
+[077/100] mu=0.230303 | PASS | r_rel=3.54e-14 | e_T=2.455e-02 | kappa=2.528e+00 | time=0.023s
+[078/100] mu=0.233333 | PASS | r_rel=3.38e-14 | e_T=2.457e-02 | kappa=2.560e+00 | time=0.022s
+[079/100] mu=0.236364 | PASS | r_rel=3.32e-14 | e_T=2.460e-02 | kappa=2.591e+00 | time=0.023s
+[080/100] mu=0.239394 | PASS | r_rel=3.56e-14 | e_T=2.462e-02 | kappa=2.626e+00 | time=0.023s
+[081/100] mu=0.242424 | PASS | r_rel=3.43e-14 | e_T=2.465e-02 | kappa=2.659e+00 | time=0.023s
+[082/100] mu=0.245455 | PASS | r_rel=3.90e-14 | e_T=2.467e-02 | kappa=2.693e+00 | time=0.023s
+[083/100] mu=0.248485 | PASS | r_rel=2.99e-14 | e_T=2.469e-02 | kappa=2.728e+00 | time=0.023s
+[084/100] mu=0.251515 | PASS | r_rel=3.66e-14 | e_T=2.472e-02 | kappa=2.762e+00 | time=0.023s
+[085/100] mu=0.254545 | PASS | r_rel=3.32e-14 | e_T=2.474e-02 | kappa=2.799e+00 | time=0.022s
+[086/100] mu=0.257576 | PASS | r_rel=3.65e-14 | e_T=2.477e-02 | kappa=2.832e+00 | time=0.023s
+[087/100] mu=0.260606 | PASS | r_rel=3.50e-14 | e_T=2.480e-02 | kappa=2.869e+00 | time=0.023s
+[088/100] mu=0.263636 | PASS | r_rel=3.01e-14 | e_T=2.482e-02 | kappa=2.909e+00 | time=0.023s
+[089/100] mu=0.266667 | PASS | r_rel=4.15e-14 | e_T=2.485e-02 | kappa=2.946e+00 | time=0.023s
+[090/100] mu=0.269697 | PASS | r_rel=3.37e-14 | e_T=2.488e-02 | kappa=2.985e+00 | time=0.023s
+[091/100] mu=0.272727 | PASS | r_rel=4.30e-14 | e_T=2.490e-02 | kappa=3.021e+00 | time=0.023s
+[092/100] mu=0.275758 | PASS | r_rel=3.77e-14 | e_T=2.493e-02 | kappa=3.060e+00 | time=0.023s
+[093/100] mu=0.278788 | PASS | r_rel=4.61e-14 | e_T=2.496e-02 | kappa=3.102e+00 | time=0.022s
+[094/100] mu=0.281818 | PASS | r_rel=4.29e-14 | e_T=2.499e-02 | kappa=3.142e+00 | time=0.023s
+[095/100] mu=0.284848 | PASS | r_rel=3.57e-14 | e_T=2.502e-02 | kappa=3.185e+00 | time=0.023s
+[096/100] mu=0.287879 | PASS | r_rel=3.65e-14 | e_T=2.504e-02 | kappa=3.226e+00 | time=0.023s
+[097/100] mu=0.290909 | PASS | r_rel=3.32e-14 | e_T=2.507e-02 | kappa=3.266e+00 | time=0.022s
+[098/100] mu=0.293939 | PASS | r_rel=3.96e-14 | e_T=2.510e-02 | kappa=3.312e+00 | time=0.023s
+[099/100] mu=0.296970 | PASS | r_rel=4.00e-14 | e_T=2.513e-02 | kappa=3.355e+00 | time=0.022s
+[100/100] mu=0.300000 | PASS | r_rel=4.29e-14 | e_T=2.516e-02 | kappa=3.400e+00 | time=0.022s
+[mesh] sample=000 mu=0.000000 N=50 | PASS | error=None
+[mesh] sample=000 mu=0.000000 N=100 | PASS | error=0.005403727609786921
+[mesh] sample=000 mu=0.000000 N=200 | PASS | error=0.0027674829303656963
+[mesh] sample=013 mu=0.039394 N=50 | PASS | error=None
+[mesh] sample=013 mu=0.039394 N=100 | PASS | error=0.005572308410966946
+[mesh] sample=013 mu=0.039394 N=200 | PASS | error=0.002851147616154463
+[mesh] sample=025 mu=0.075758 N=50 | PASS | error=None
+[mesh] sample=025 mu=0.075758 N=100 | PASS | error=0.005998994630715012
+[mesh] sample=025 mu=0.075758 N=200 | PASS | error=0.0030631165018898078
+[mesh] sample=037 mu=0.112121 N=50 | PASS | error=None
+[mesh] sample=037 mu=0.112121 N=100 | PASS | error=0.006624259545493098
+[mesh] sample=037 mu=0.112121 N=200 | PASS | error=0.0033742083975498113
+[mesh] sample=050 mu=0.151515 N=50 | PASS | error=None
+[mesh] sample=050 mu=0.151515 N=100 | PASS | error=0.007452200893265395
+[mesh] sample=050 mu=0.151515 N=200 | PASS | error=0.0037871023283401043
+[mesh] sample=074 mu=0.224242 N=50 | PASS | error=None
+[mesh] sample=074 mu=0.224242 N=100 | PASS | error=0.00920747128103245
+[mesh] sample=074 mu=0.224242 N=200 | PASS | error=0.004667525558089027
+[mesh] sample=086 mu=0.260606 N=50 | PASS | error=None
+[mesh] sample=086 mu=0.260606 N=100 | PASS | error=0.010147356462341509
+[mesh] sample=086 mu=0.260606 N=200 | PASS | error=0.005142148049576824
+[mesh] sample=099 mu=0.300000 N=50 | PASS | error=None
+[mesh] sample=099 mu=0.300000 N=100 | PASS | error=0.011193484615801667
+[mesh] sample=099 mu=0.300000 N=200 | PASS | error=0.005670562450817779
+{
+  "number_of_samples": 100,
+  "status_counts": {
+    "PASS": 100,
+    "WARNING": 0,
+    "FAIL": 0
+  },
+  "total_runtime_seconds": 4.66180516697932,
+  "mean_fom_runtime_seconds": 0.02388698953203857,
+  "max_relative_residual": 4.608081734232575e-14,
+  "median_relative_residual": 3.006623537295282e-14,
+  "max_optimality_error": 1.0679503941576822e-11,
+  "max_optimality_relative_error": 4.278888702227234e-12,
+  "max_terminal_error": 0.02516480093251613,
+  "min_relative_terminal_error": 0.01065290483694695,
+  "max_relative_terminal_error": 0.011328597121077906,
+  "min_gramian_eigenvalue": 0.5367086513282658,
+  "max_gramian_eigenvalue": 1.848940685605612,
+  "max_gramian_condition_number": 3.4449615839614065,
+  "max_system_condition_number": 3.40024011160092,
+  "max_local_parameter_sensitivity": 2.0342639126978623,
+  "max_control_energy": 5.3983227650126615,
+  "min_cost_reduction": 0.9889314918074972,
+  "mesh_representative_count": 8,
+  "mesh_all_converged": true,
+  "flagged_samples": [],
+  "campaign_validated": true,
+  "split_counts": {
+    "train_indices": 75,
+    "validation_indices": 15,
+    "test_indices": 10
+  },
+  "config": {
+    "experiment": {
+      "name": "wave_speed_amplitude_sweep",
+      "seed": 42
+    },
+    "domain": {
+      "length": 1.0,
+      "final_time": 2.0
+    },
+    "discretization": {
+      "n_interior": 100
+    },
+    "optimal_control": {
+      "beta": 100.0
+    },
+    "parameter_space": {
+      "dimension": 1,
+      "min": 0.0,
+      "max": 0.3,
+      "n_samples": 100,
+      "sampling": "uniform_grid",
+      "parameterization": "wave_speed_sine_amplitude_v1"
+    },
+    "validation": {
+      "safe_epsilon": 1e-15,
+      "relative_residual_tolerance": 1e-09,
+      "optimality_tolerance": 1e-09,
+      "weighted_symmetry_tolerance": 1e-09,
+      "positivity_tolerance": 1e-10,
+      "cost_tolerance": 1e-10,
+      "spectral_tolerance": 1e-09,
+      "gramian_condition_warning": 10000000000.0,
+      "system_condition_warning": 100000000.0,
+      "near_zero_eigenvalue_warning": 1e-12,
+      "control_energy_warning": 1000000.0,
+      "relative_terminal_error_warning": 0.1,
+      "runtime_warning_seconds": 10.0,
+      "sensitivity_outlier_factor": 10.0
+    },
+    "mesh_refinement": {
+      "enabled": true,
+      "sizes": [
+        50,
+        100,
+        200
+      ],
+      "representative_samples": 8,
+      "decrease_factor_tolerance": 1.05,
+      "absolute_error_floor": 1e-08
+    },
+    "dataset": {
+      "format": "hdf5",
+      "version": "1.0",
+      "split_strategy": "random",
+      "fractions": [
+        0.75,
+        0.15,
+        0.1
+      ]
+    },
+    "outputs": {
+      "dataset": "data/datasets/wave_pdocp_fom.h5",
+      "snapshots": "outputs/parameter_sweep/validated_snapshots.h5",
+      "metrics": "outputs/metrics/fom_parameter_sweep.csv",
+      "refinement": "outputs/metrics/fom_mesh_refinement.csv",
+      "summary": "outputs/parameter_sweep/summary.json",
+      "figures": "outputs/parameter_sweep/figures"
+    }
+  },
+  "dataset_path": "/Users/sergio/Desktop/Tesis de Maestria/wave_pdocp/data/datasets/wave_pdocp_fom.h5"
+}
+Dataset: /Users/sergio/Desktop/Tesis de Maestria/wave_pdocp/data/datasets/wave_pdocp_fom.h5
+Diagnósticos: /Users/sergio/Desktop/Tesis de Maestria/wave_pdocp/outputs/metrics/fom_parameter_sweep.csv
+Resumen: /Users/sergio/Desktop/Tesis de Maestria/wave_pdocp/outputs/parameter_sweep/summary.json
